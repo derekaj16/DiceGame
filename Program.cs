@@ -47,8 +47,6 @@ namespace DiceGame
                 string stars = new string('*', percent);
                 Console.WriteLine((i + 2) + ": " + stars);
             }
-
-            Console.ReadLine()
         }
     }
 }
